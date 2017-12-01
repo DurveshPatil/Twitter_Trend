@@ -126,7 +126,7 @@ function loadDataFromES(value) {
         }
     }
     $.ajax({
-        url: 'https://search-tweet-sentiment-mttob4thcz4bt6rcm74u4xslj4.us-east-1.es.amazonaws.com/tweets/_search',
+        url: 'https://search-twitter-stream-b4wck76xj4svjuhpgq54nzlgvm.us-west-2.es.amazonaws.com/tweets/_search',
         method:"POST",
         data:JSON.stringify(query),
         dataType: 'text',
