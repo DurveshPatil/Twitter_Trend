@@ -1,3 +1,3 @@
 # Twitter_Trend
 
-#By Abhishek and Durvesh
+By Abhishek and Durvesh
